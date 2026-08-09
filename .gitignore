@@ -1,0 +1,6 @@
+.obsidian/**
+**/build/**
+.cache/**
+build/**
+build-v6/**
+.esp/**
